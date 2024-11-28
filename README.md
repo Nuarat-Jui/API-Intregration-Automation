@@ -17,7 +17,12 @@ The dMoney Project is a digital financial system that allows agents, customers, 
 https://documenter.getpostman.com/view/39820932/2sAYBVgWbL
 
 # Report
-![image](https://github.com/user-attachments/assets/94a2f257-5d89-49af-a4da-6656443ab71a)
+![image](https://github.com/user-attachments/assets/513fdd9c-e48f-404a-bb51-ee8f4bfb8094)
 
-![image](https://github.com/user-attachments/assets/79c88f8f-f12b-4ebc-8e16-c13be1f74db6)
+![image](https://github.com/user-attachments/assets/26ac0333-52b5-4042-a173-280742d800fd)
+
+![image](https://github.com/user-attachments/assets/8dd4eb31-3fae-4c77-ae60-f5a451a9f092)
+
+
+
 
