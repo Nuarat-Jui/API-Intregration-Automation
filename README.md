@@ -1,5 +1,5 @@
 # About
-The dMoney API integration Project is a digital financial system that allows agents, customers, and merchants to securely handle transactions such as deposits, withdrawals, payments, and balance inquiries. It ensures reliability and security through role-based access and real-world scenario handling.
+This API integration Project is a digital financial system that allows agents, customers, and merchants to securely handle transactions such as deposits, withdrawals, payments, and balance inquiries. It ensures reliability and security through role-based access and real-world scenario handling.
 
 # Technology Used
 - Postman
